@@ -1,5 +1,5 @@
 [default]
-bears = coalaBear, FilenameBear, LineCountBear, InvalidLinkBear
+bears = FilenameBear, LineCountBear, InvalidLinkBear
 files = **.py, **.markdown
 ignore = 
 max_lines_per_file = 1000
