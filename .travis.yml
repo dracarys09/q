@@ -1,0 +1,3 @@
+nguage: generic
+services: docker
+script: docker run -v=$(pwd):/app --workdir=/app coala/base coala --ci
