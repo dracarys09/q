@@ -2,13 +2,12 @@
 bears = FilenameBear, LineCountBear, InvalidLinkBear
 files = **.py, **.markdown
 ignore = 
-max_lines_per_file = 5000
+max_lines_per_file = 1000
 [markdown]
 bears = LineLengthBear, MarkdownBear, KeywordBear, SpaceConsistencyBear
 files = **.markdown
 use_spaces = false
 language = Python
-max_line_length = 200
 [python]
 bears = PEP8Bear
 files = **.py
