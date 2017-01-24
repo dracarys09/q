@@ -6,9 +6,9 @@ q treats ordinary files as database tables, and supports all SQL constructs, suc
 q's web site is [http://harelba.github.io/q/](http://harelba.github.io/q/). It contains everything you need to download and use q in no time.
 
 ## Installation.
-Extremely simple. 
+Extremely simple.
 
-Instructions for all OSs are [here](http://harelba.github.io/q/install.html). 
+Instructions for all OSs are [here](http://harelba.github.io/q/install.html).
 
 ## Examples
 
@@ -28,4 +28,3 @@ Any feedback/suggestions/complaints regarding this tool would be much appreciate
 Harel Ben-Attia, harelba@gmail.com, [@harelba](https://twitter.com/harelba) on Twitter
 
 q on twitter: #qtextasdata
-
